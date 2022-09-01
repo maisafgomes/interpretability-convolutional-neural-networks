@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este trabalho tem como objetivo utilizar atécnicas de interpretabilidade em uma rede neural convolucional para a detecção de glaucoma em
+Este trabalho tem como objetivo utilizar técnicas de interpretabilidade em uma rede neural convolucional para a detecção de glaucoma em
 imagens de fundo de olho.
 
 O modelo de rede neural escolhido foi o [ResNet](https://arxiv.org/abs/1512.03385)
